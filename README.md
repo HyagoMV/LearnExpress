@@ -1,1 +1,3 @@
 # LearnExpress
+
+npm init
